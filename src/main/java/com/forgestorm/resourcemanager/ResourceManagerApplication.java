@@ -1,4 +1,4 @@
-package com.forgestorm.resourcemanager.resourcemanager;
+package com.forgestorm.resourcemanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

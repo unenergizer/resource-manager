@@ -1,4 +1,4 @@
-package com.forgestorm.resourcemanager.resourcemanager;
+package com.forgestorm.resourcemanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
